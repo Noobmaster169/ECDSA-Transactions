@@ -1,6 +1,6 @@
 ## ECDSA Node
 
-This project is an example of using a client and server to facilitate transfer between different addresses. The focus of this project is to incorporate Public & Private Key Cryptography by using Elliptic Curve Digital Signatures, similar to how blockchain transactions work.
+This project is an example of using a client and server to facilitate transfer between different addresses. The focus of this project is to incorporate **Public & Private Key Cryptography** by using **Elliptic Curve Digital Signatures**, similar to how blockchain transactions work.
 
 Although the system uses a single centralized server, users can transfer secure their transaction by only passing their Public Key and the Transaction Digital Signature to create a cryptography-based transaction, without having to use their Private Key. 
 
