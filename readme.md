@@ -40,5 +40,6 @@ Run `node server/scripts/sign <PRIVATE_KEY> <DESTINATION_ADDRESS> <AMOUNT_TO_SEN
 Use the returned Signature to deploy your transaction to the server.
 
 ### Deploying Transaction
-Enter your Public Key and Transaction Signature. Then confirm the Destination Address and Amount of Balance to be sent. 
+![alt text](transaction.png)
+Enter your **Public Key** and **Transaction Signature**. Then confirm the **Sent Balance Amount** and the **Destination Address**. 
 Click the `Transfer` button to deploy the transaction.
